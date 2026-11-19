@@ -1,8 +1,7 @@
-# Avatar: The Last Airbender
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/bab3f39a-cadf-4668-8d26-defc5d136674" /># Avatar: The Last Airbender
 
 > "Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony."
 
-![Avatar logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Placeholder.svg/200px-Placeholder.svg.png)
 
 ## Overview
 
